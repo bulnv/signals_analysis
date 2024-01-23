@@ -1,41 +1,4 @@
-[{
-  "id": 1,
-  "type": "service",
-  "date": "2021-05-28T20:43:12",
-  "date_unixtime": "1622227392",
-  "actor": "CoinCodeCap Spot Signals 🔐",
-  "actor_id": "channel1200559110",
-  "action": "create_channel",
-  "title": "CoinCodeCap Spot Signals",
-  "text": "",
-  "text_entities": []
-},
-{
-  "id": 2,
-  "type": "service",
-  "date": "2021-05-28T20:43:13",
-  "date_unixtime": "1622227393",
-  "actor": "CoinCodeCap Spot Signals 🔐",
-  "actor_id": "channel1200559110",
-  "action": "edit_group_photo",
-  "photo": "(File not included. Change data exporting settings to download.)",
-  "width": 640,
-  "height": 640,
-  "text": "",
-  "text_entities": []
-},
-{
-  "id": 3,
-  "type": "service",
-  "date": "2021-06-03T05:45:10",
-  "date_unixtime": "1622691910",
-  "actor": "CoinCodeCap Spot Signals 🔐",
-  "actor_id": "channel1200559110",
-  "action": "edit_group_title",
-  "title": "CoinCodeCap Spot Signals 🔐",
-  "text": "",
-  "text_entities": []
-},
+[
 {
   "id": 4,
   "type": "message",
